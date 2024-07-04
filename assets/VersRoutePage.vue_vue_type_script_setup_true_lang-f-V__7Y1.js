@@ -1,0 +1,1 @@
+import{d as s,o as n,c as r,w as a,u as e,I as l,a as c,b as i,t as d,r as u,e as p}from"./index-C8Gi12Ee.js";const g=s({__name:"VersRoutePage",setup(_){const t=window.location.href.getBaseName();return(o,f)=>(n(),r(e(l),null,{default:a(()=>[c(e(p),{class:"ion-padding"},{default:a(()=>[i("h1",null,d(e(t).toCapital()),1),u(o.$slots,"default")]),_:3})]),_:3}))}});export{g as _};

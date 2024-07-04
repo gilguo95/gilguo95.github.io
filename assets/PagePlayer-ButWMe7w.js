@@ -1,0 +1,1 @@
+import{d as e,o as a,c as o,u as t}from"./index-C8Gi12Ee.js";import{_}from"./VersRoutePage.vue_vue_type_script_setup_true_lang-f-V__7Y1.js";const n={tabIndex:3,tabIcon:{}},p=e({...n,__name:"PagePlayer",setup(r){return(c,s)=>(a(),o(t(_)))}});export{p as default};
